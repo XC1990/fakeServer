@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Jhon",
+      "lastName": "Doe",
+      "email": "123@gaga.com",
+      "age": 34,
+      "companyId": 1
+    },
+    {
+      "id": "2",
+      "firstName": "Jh5on",
+      "lastName": "Doe",
+      "email": "1223@gaga.com",
+      "age": 34,
+      "companyId": 1
+    },
+    {
+      "id": "3",
+      "firstName": "Jho4n",
+      "lastName": "Doe",
+      "email": "1423@gaga.com",
+      "age": 34,
+      "companyId": 2
+    },
+    {
+      "id": "4",
+      "firstName": "Jho2n",
+      "lastName": "Do2e",
+      "email": "1263@gaga.com",
+      "age": 34,
+      "companyId": 3
+    },
+    {
+      "id": "5",
+      "firstName": "Adam",
+      "lastName": "Cheng",
+      "email": "123@gaga.com",
+      "age": 27,
+      "companyId": 1
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "apple",
+      "description": "appppple"
+    },
+    {
+      "id": "2",
+      "name": "amazon",
+      "description": "ammmmmmmmmmazon"
+    },
+    {
+      "id": "3",
+      "name": "google",
+      "description": "gooooooooogle"
+    }
+  ]
+}
